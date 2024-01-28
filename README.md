@@ -100,6 +100,10 @@ https://github.com/mohamedmosilhy/Signal-Equalizer/assets/115044826/88899ce1-07e
 ```bash
 pip install -r requirements.txt
 ```
+2. Run the application using 
+```bash
+python main.py
+```
 
 ## Contributors <a name = "Contributors"></a>
 <table>
@@ -129,7 +133,3 @@ pip install -r requirements.txt
     <sub><b>Youssef Ahmed</b></sub></a>
     </td>
       </tr>
-2. Run the application using 
-```bash
-python main.py
-```
